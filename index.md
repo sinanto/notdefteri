@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Basho'nun şiiri ile başlıyoruz
 
 You can use the [editor on GitHub](https://github.com/sinanto/notdefteri/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
